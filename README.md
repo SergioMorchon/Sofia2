@@ -4,6 +4,6 @@
 
 This project is a free purpose of diffrent clients structured by targetted technologies (like browsers, nodejs, .NET, ...).
 
-Because Sofia2 use **standards**, anyone can build its own client! And, of course, depll¡oy it over any *thing* :)
+Because Sofia2 use **standards**, anyone can build its own client! And, of course, deploy it over any *thing* :)
 
 - [Sofia2js](https://github.com/SergioMorchon/Sofia2js).
